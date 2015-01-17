@@ -108,7 +108,7 @@ p{
 
 
 #header{
-  background:url("assets/img/header.jpg")50% 0 no-repeat;
+  background:url("../img/header.jpg")50% 0 no-repeat;
   background-size: 100%;
   /*min-height: 1000px;*/
 }
