@@ -19,6 +19,7 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,addre
     float:left;
     margin-left:10px;
     margin-right:10px;
+
 }
 .container12 .alpha, .container16 .alpha {margin-left:0;}
 .container12 .omega, .container16 .omega {margin-right:0;}
