@@ -27,8 +27,8 @@ body{
 /********************************/
 .first-character {font-weight:400; float: left; font-size: 84px; line-height: 64px; padding-top: 4px; padding-right: 8px; padding-left: 3px; font-family: 'Source Sans Pro', sans-serif;}
 
-.an {color: #1af294;}
-.cu {color: #3d3c3a;}
+.an {color: #e49621;}
+.cu {color: #e49621;}
 .h {color: #fff;}
 
 h1{
@@ -108,8 +108,10 @@ p{
 
 
 #header{
+  background-color: blue;
   background:url("../img/header.jpg")50% 0 no-repeat;
   background-size: 100%;
+  margin-right: 5%;
   /*min-height: 1000px;*/
 }
 
@@ -157,7 +159,7 @@ p{
 /*Footer*/
 /********************************/
 .pagefooter{
-  background-color: #1af294;
+  background-color: #e49621;
   min-height: 100px;
 }
 /********************************/
@@ -198,8 +200,8 @@ nav li a {
   -webkit-box-sizing:border-box;
 }
 nav a:hover, nav a:active {
-  background-color: #1af294;
-  color: #333;
+  background-color: #233429;
+  color: #e49621;
   -webkit-transition: .6s ease-in-out;
 }
 nav a#pull {
