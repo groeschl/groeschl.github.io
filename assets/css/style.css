@@ -36,7 +36,7 @@ font-size: 48px;
 }
 
 h2{
-	text-fill-color: #e49621;
+	
 
 }
 
@@ -110,7 +110,7 @@ p{
 
 #header{
   background-color: blue;
-  background:url("../img/header.jpg")50% 0 no-repeat;
+  background:url("../img/header_v2.jpg")50% 0 no-repeat;
   background-size: 100%;
   margin-right: 5%;
   /*min-height: 1000px;*/
@@ -225,7 +225,7 @@ nav a#pull {
 }
 
 /*Smartphone*/
-@media only screen and (max-width : 400px) {
+@media only screen and (max-width : 768px) {
   nav { 
       height: auto;
       font-size: .9em;

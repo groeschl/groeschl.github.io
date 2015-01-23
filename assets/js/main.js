@@ -69,7 +69,7 @@ $(document).ready(function()
     }, 1000);
     })
 
-    //Project Bus
+    //Projects
     $("#sliderb3").click(function() 
     {
     $('html, body').animate(
@@ -83,7 +83,7 @@ $(document).ready(function()
     {
     $('html, body').animate(
     {
-        scrollTop: $("#about").offset().top
+        scrollTop: $(".pagefooter").offset().top
     }, 1000);
     })
 });
