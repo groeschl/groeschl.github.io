@@ -231,7 +231,7 @@ nav a#pull {
 }
 
 /*Smartphone*/
-@media only screen and (max-width : 751px) {
+@media only screen and (max-width : 749px) {
   nav { 
       height: auto;
       font-size: .9em;
