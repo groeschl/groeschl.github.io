@@ -220,7 +220,7 @@ nav a#pull {
 /*Responsive shit*/
 /**************************/
 /*Navi resize*/
-@media only screen and (max-width : 1074px) and (min-width: 769px) {
+@media only screen and (max-width : 1074px) and (min-width: 2000px) { /* 769 */
   nav {
     height: 66px;
     font-size: .9em;
@@ -231,7 +231,7 @@ nav a#pull {
 }
 
 /*Smartphone*/
-@media only screen and (max-width : 768px) {
+@media only screen and (max-width : 800px) {
   nav { 
       height: auto;
       font-size: .9em;
