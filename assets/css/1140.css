@@ -5,13 +5,17 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,addre
     position:relative;
     width:1140px;
 }
-.row {margin-bottom:20px;}
+.row {
+	margin-bottom:20px;
+	}
 .column1, .column2, .column3, .column4, .column5, .column6, .column7, .column8, .column9, .column10, .column11, .column12, .column13, .column14, .column15, .column16 {
     display:inline;
     float:left;
     margin-left:10px;
     margin-right:10px;
-    color: #233429;
+    color: rgba (228,150,33,1);
+
+    
 }
 
 .column12_home{
