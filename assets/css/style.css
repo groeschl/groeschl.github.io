@@ -220,8 +220,8 @@ nav a#pull {
 /*Responsive shit*/
 /**************************/
 /*Navi resize*/
-/* @media only screen and (max-width : 480px) and (min-width: 800px) { */
-@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (orientation : portrait) {
+@media only screen and (max-width : 480px) and (min-width: 800px) {
+/* @media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (orientation : portrait) { */
   nav {
     height: 66px;
     font-size: .9em;
@@ -232,8 +232,8 @@ nav a#pull {
 }
 
 /*Smartphone*/
-/* @media only screen and (max-width : 800px) { */
-@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (orientation : portrait) {
+@media only screen and (max-width : 800px) {
+/* @media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (orientation : portrait) { */
   nav { 
       height: auto;
       font-size: .9em;
